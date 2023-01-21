@@ -11,7 +11,7 @@ booking table api --> /restaurant/booking (needs authentication)
 login page --> /auth/token/login/ 
 (can use user id : user3 and password : lemon@123 for token generation and use in insomnia)
 
-registration --> /auth/users/
+registration api --> /auth/users/
 
 
 
